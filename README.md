@@ -2,56 +2,145 @@
 
 # 👋 Hi, I'm Shahul Hameed Badhusha Ansari
 
-💻 **Java Backend Developer | Spring Boot | Microservices | REST API Specialist**  
-🚀 Passionate about building **scalable, secure, and high-performance enterprise applications**.
+💻 **Senior Java Backend Developer | FinTech | Microservices | Spring Boot**  
+🚀 Building **secure, scalable, and high-performance enterprise systems**
 
-![Profile Views](https://komarev.com/ghpvc/?username=badhusha-dev&color=brightgreen)  
+![Profile Views](https://komarev.com/ghpvc/?username=badhusha-dev&color=brightgreen)
 
 ---
 
 ## 🌟 About Me
-- 🎯 **4+ years** of experience in backend development for **e-commerce, accounting, and POS systems**.
-- 💡 Skilled in **Spring Boot**, **REST APIs**, **Microservices**, **JWT Authentication**, **AWS S3**, and **Kafka**.
-- ⚡ Enthusiastic about **real-time data processing**, **database optimization**, and **cloud integrations**.
-- 🌏 Based in **Petaling Jaya, Malaysia** — open to opportunities in **Malaysia & Saudi Arabia**.
+
+- 🎯 **4+ years of experience** in FinTech, POS & E-commerce systems  
+- 💰 Specialized in **Islamic Finance, Gold Valuation & Investment Platforms**  
+- ⚙️ Expert in **Spring Boot, Microservices, REST APIs & SQL Optimization**  
+- 🔐 Strong in **secure transaction systems (JWT, RBAC, ACID compliance)**  
+- 🌍 Open to opportunities in **Malaysia 🇲🇾 & Saudi Arabia 🇸🇦**
 
 ---
 
-## 📅 Current Focus
-- 🔭 Working on **high-performance microservices** architecture.  
-- 🌱 Learning **GraphQL with Spring Boot** for advanced API integrations.  
-- 🛠 Enhancing **DevOps** skills with Docker & CI/CD pipelines.
+## 🔥 Featured Projects
+
+---
+
+### 🛒 ShopifyGenie – Smart Shopify Automation Platform
+🚀 A backend system for **Shopify order automation, inventory sync, and analytics**
+
+🔧 **Tech Stack**  
+- Java, Spring Boot  
+- REST APIs  
+- Shopify API  
+- MySQL  
+
+💡 **Key Features**
+- Automated order synchronization with Shopify  
+- Real-time inventory updates across systems  
+- Scalable architecture for multi-store support  
+- Analytics-ready backend  
+
+🔗 https://github.com/badhusha-dev/ShopifyGenie
+
+---
+
+### 🌿 Zenvy – Modern Lifestyle Platform
+💡 A scalable application focused on **clean architecture & user experience**
+
+🔧 **Tech Stack**  
+- Spring Boot  
+- React  
+- REST APIs  
+
+💡 **Key Features**
+- Modular backend architecture  
+- Clean API design  
+- Responsive UI integration  
+- Optimized performance  
+
+🔗 https://github.com/badhusha-dev/Zenvy
+
+---
+
+### 💰 RizqWise – Halal Wealth Finance Application
+🕌 A **Shariah-compliant financial platform** for halal investments
+
+🔧 **Tech Stack**  
+- Spring Boot  
+- Microservices Architecture  
+- JWT Authentication  
+- MySQL  
+
+💡 **Key Features**
+- Halal investment tracking system  
+- Secure authentication & authorization  
+- Portfolio and financial insights  
+- Scalable microservices design  
+
+🔗 https://github.com/badhusha-dev/RizqWise
+
+---
+
+### 🪙 AurumReserve – Gold Investment & Asset Platform
+💰 A system for **gold valuation, digital asset tracking, and financial workflows**
+
+🔧 **Tech Stack**  
+- Java, Spring Boot  
+- Microservices  
+- SQL  
+
+💡 **Key Features**
+- Gold valuation & pricing engine  
+- Secure financial transactions  
+- Loan & repayment workflows  
+- High-performance backend  
+
+🔗 https://github.com/badhusha-dev/AurumReserve
+
+---
+
+### 📊 E-Commerce Analytics Engine
+📈 A system for **analyzing sales, customers, and business performance**
+
+🔧 **Tech Stack**  
+- Java  
+- Spring Boot  
+- SQL  
+
+💡 **Key Features**
+- Sales and revenue analytics  
+- Customer behavior insights  
+- Report generation system  
+- Optimized query performance  
+
+🔗 https://github.com/badhusha-dev/e-com-analyze
 
 ---
 
 ## 🛠️ Tech Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
----
+### 🚀 Backend
+- Java, Spring Boot, Spring MVC, Hibernate, JPA  
 
-## 🆕 Latest GitHub Repositories
-<!-- GITHUB:START -->
-[![CodeMind](https://github-readme-stats.vercel.app/api/pin/?username=badhusha-dev&repo=CodeMind&theme=tokyonight)](https://github.com/badhusha-dev/CodeMind)
-[![DevOps-monitor](https://github-readme-stats.vercel.app/api/pin/?username=badhusha-dev&repo=DevOps-monitor&theme=tokyonight)](https://github.com/badhusha-dev/DevOps-monitor)
-[![FoodFriend](https://github-readme-stats.vercel.app/api/pin/?username=badhusha-dev&repo=FoodFriend&theme=tokyonight)](https://github.com/badhusha-dev/FoodFriend)
-[![MergeEats](https://github-readme-stats.vercel.app/api/pin/?username=badhusha-dev&repo=MergeEats&theme=tokyonight)](https://github.com/badhusha-dev/MergeEats)
-[![pick-food-spot](https://github-readme-stats.vercel.app/api/pin/?username=badhusha-dev&repo=pick-food-spot&theme=tokyonight)](https://github.com/badhusha-dev/pick-food-spot)
-[![SmartOutlet-POS](https://github-readme-stats.vercel.app/api/pin/?username=badhusha-dev&repo=SmartOutlet-POS&theme=tokyonight)](https://github.com/badhusha-dev/SmartOutlet-POS)
-<!-- GITHUB:END -->
+### 🔗 APIs & Security
+- REST APIs, JWT Authentication, Role-Based Access Control  
+
+### 🧠 Architecture
+- Microservices, Monolithic MVC, Modular Architecture  
+
+### 🗄️ Database
+- MySQL, MSSQL, PostgreSQL  
+- Query Optimization, Indexing, Stored Procedures  
+
+### ⚡ Messaging & Tools
+- Apache Kafka, Redis  
+- Docker, AWS S3, Git, Maven, Linux  
+
+### 🎨 Frontend (Supporting)
+- React, Redux, JavaScript, jQuery  
 
 ---
 
 ## 📊 GitHub Analytics
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=badhusha-dev&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=badhusha-dev&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=badhusha-dev&theme=tokyonight)  
@@ -59,28 +148,34 @@
 ---
 
 ## 📈 Contribution Graph
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=badhusha-dev&theme=tokyo-night)
 
 ---
 
-## 🎯 2025 Goals
-- 📌 Master **GraphQL API** development with Spring Boot  
-- 📌 Contribute to **5+ open-source projects**  
-- 📌 Build a **cloud-native SaaS product** from scratch  
+## 🎯 2026 Goals
+
+- 📌 Build a **Halal FinTech SaaS Platform**  
+- 📌 Master **GraphQL with Microservices**  
+- 📌 Contribute to **Open Source (Spring ecosystem)**  
+- 📌 Achieve **Senior Backend Role (Malaysia / Saudi Arabia)**  
 
 ---
 
-## 💬 Fun Facts
-- ☕ I start my day with a **strong coffee** ☕  
-- 💡 I love exploring **new programming trends**  
+## 💡 Strengths
+
+- 💰 Financial Systems Expertise (High Demand 🔥)  
+- ⚡ Performance Optimization  
+- 🔐 Secure Transaction Systems  
+- 🧩 Problem Solving & Debugging  
 
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/badhusha2000)  
-📧 **officialbadhusha@gmail.com**  
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/badhusha2000  
+- 📧 Email: officialbadhusha@gmail.com  
 
 ---
-⭐ *Always open to collaborating on interesting projects and innovative ideas!*
 
-
+⭐ *Let’s build scalable, secure, and impactful systems together!*
